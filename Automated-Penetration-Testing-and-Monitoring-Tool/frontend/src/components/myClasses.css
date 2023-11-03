@@ -1,0 +1,41 @@
+/*.noSubmit {
+    pointer-events: none;
+    background-color: gray !important;
+}*/
+
+.acc-high-toggle {
+    background-color: red;
+}
+
+.acc-med-toggle {
+    background-color: orange;
+}
+
+.acc-low-toggle {
+    background-color: yellow;
+}
+
+.acc-info-toggle {
+    background-color: green;
+}
+
+.acc-card-body {
+    text-align: left;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.acc-card-body-color {
+    background-color: rgb(230, 230, 230);
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+.login-page {
+    text-align: center;
+    font-weight: bold;
+}
